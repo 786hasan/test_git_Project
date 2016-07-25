@@ -11,7 +11,7 @@ namespace Git_Project
         static void Main(string[] args)
         {
             //add commet 
-            Console.WriteLine("this id for the new project");
+            //add commet             Console.WriteLine("this id for the new project");
             Console.WriteLine("this id for the new project");
             Console.WriteLine("this id for the new project");
             Console.WriteLine("this id for the new project");
