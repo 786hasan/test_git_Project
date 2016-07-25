@@ -10,7 +10,9 @@ namespace Git_Project
     {
         static void Main(string[] args)
         {
-           //add commet 
+            //add commet 
+            Console.WriteLine("this id for the new project");
+
         }
     }
 }
